@@ -1,0 +1,7 @@
+cd "C:\Users\johan games\ps4-jailbreak"
+git init
+git remote add origin https://github.com/gusdiraj-ps/jailbreak-ps4.git
+git add .
+git commit -m "Configure GitHub Pages hosting"
+git branch -M main
+git push -u origin main
